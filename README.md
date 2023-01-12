@@ -1,4 +1,4 @@
-### Hi there 👋
+### 学习中 😄
 page: https://haomingx.github.io/
 <!--
 **HaomingX/HaomingX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
